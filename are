@@ -1,1 +1,2 @@
 Consol.WriteLine(heloo);
+Consol.ReadKey();
